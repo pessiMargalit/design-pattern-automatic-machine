@@ -2,11 +2,11 @@
 This project simulates the activity of a vending machine for snacks and drinks. It uses five types of Design Patterns.
 
 ## Design Patterns
- - Factory Pattern is used to create different types of vending machine products.
  - Singleton Pattern is used to ensure that there is only one instance of the vending machine.
- - Observer Pattern is used to notify listeners when the vending machine's inventory changes.
- - Strategy Pattern is used to determine how to dispense a product, depending on the type of product.
- - State Pattern is used to represent the different states of the vending machine, such as "no coins inserted", "sufficient funds", and "product dispensed".
+ - Mediator Pattern is used to encapsulates interactions between the various parts of the machine.
+ - Builder Pattern is used to create types of drinks step-by-step according to customer requirements.
+ - Decorator Pattern is used to intended for adding optional extras to the purchased products.
+ - Template method Pattern is used to select the purchase report print format.
 The project also includes a UML diagram that shows the relationships between the different classes in the project. The diagram is available in the docs folder.
 
 The project is made with WinForm technology. It can be run on Windows 10 or later.
