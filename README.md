@@ -20,9 +20,10 @@ The project is made with WinForm technology. It can be run on Windows 10 or late
 The following UML diagram shows the relationships between the different classes in the project:
 
 ![Vending Machine UML Diagram](https://github.com/pessiMargalit/design-pattern-automatic-machine/blob/master/UML%20Class%20Diagram.vpd.jpg)
+## Contributing
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request on the GitHub repository.
+
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-If you have any questions about this project, please contact me at pessimargalit@gmail.com
 
