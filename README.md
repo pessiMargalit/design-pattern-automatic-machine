@@ -12,8 +12,7 @@ The project is made with WinForm technology. It can be run on Windows 10 or late
 
 ## To Run the Project
  - Open a command prompt and navigate to the project directory.
- - Run the following command:
- - dotnet run
+ - Run the following command: dotnet run
  - The project will start up and you will be able to interact with the vending machine.
 
 ## Design Patterns
