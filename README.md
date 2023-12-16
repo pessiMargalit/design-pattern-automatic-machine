@@ -23,7 +23,3 @@ The following UML diagram shows the relationships between the different classes 
 ## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request on the GitHub repository.
 
-## License
-This project is licensed under the MIT License.
-
-
